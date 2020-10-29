@@ -1,3 +1,5 @@
+(/picture.jpg)
+
 # TigerBOX
 This project made by Ariel Shabaev [TigerNetv].
 

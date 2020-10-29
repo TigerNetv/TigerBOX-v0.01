@@ -2,16 +2,17 @@
 
 
 # TigerBOX
+```
 This project made by Ariel Shabaev [TigerNetv].
 
 Base on python 3.X
-
+```
 # Functions :
 ```
  * Scan Network
  * Proxy Scraper
  * IPTool [Whois / Reverse DNS / Reverse IP]
-* Password Generator
+ * Password Generator
 ```
 
 # Modules :

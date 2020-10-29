@@ -1,7 +1,5 @@
 ![TigerBOX v0.01](https://github.com/TigerNetv/TigerBOX-v0.01/blob/main/picture.jpg)
 
-
-# TigerBOX
 ```
 This project made by Ariel Shabaev [TigerNetv].
 Base on python 3.X

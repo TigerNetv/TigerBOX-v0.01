@@ -1,4 +1,4 @@
-![TigerBOX v0.01](https://github.com/TigerNetv/TigerBOX-v0.01/blob/main/picture.jpg)
+![TigerBOX v0.01](https://github.com/TigerNetv/TigerBOX-v0.01/blob/main/gif.gif)
 
 ```
 This project made by Ariel Shabaev [TigerNetv].

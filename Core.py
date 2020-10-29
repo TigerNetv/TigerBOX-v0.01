@@ -45,7 +45,7 @@ while commandloop == 1:
     print("")
     print ((greencolor + "              [1] " + res + whitecolor + "Scan Network" + res))
     print ((greencolor + "              [2] " + res + whitecolor + "Proxy Scraper" + res))
-    print ((greencolor + "              [3] " + res + whitecolor + "IPTool [Whois / Reverse DNS / Reverse IP " + res))
+    print ((greencolor + "              [3] " + res + whitecolor + "IPTool [Whois / Reverse DNS / Reverse IP]" + res))
     print ((greencolor + "              [4] " + res + whitecolor + "Password Generator" + res))
     print ((greencolor + "              [5] " + res + whitecolor + "Credits" + res))
     print ((greencolor + "              [6] " + res + whitecolor + "Quits the program" + res))    

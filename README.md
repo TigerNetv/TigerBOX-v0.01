@@ -6,7 +6,7 @@ Base on python 3.X
 ```
 # Functions :
 ```
-* Scan Network
+ * Network Scanner
  * Proxy Scraper
  * IPTool [Whois / Reverse DNS / Reverse IP]
  * Password Generator

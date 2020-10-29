@@ -1,4 +1,4 @@
-(/picture.jpg)
+![GitHub Logo](picture.png)
 
 # TigerBOX
 This project made by Ariel Shabaev [TigerNetv].

@@ -43,7 +43,7 @@ while commandloop == 1:
     print ("")
     print ((timecolor + now.strftime("%d/%m/%Y %H:%M:%S") + res) + (whitecolor + " Select a module" + res))
     print("")
-    print ((greencolor + "              [1] " + res + whitecolor + "Scan Network" + res))
+    print ((greencolor + "              [1] " + res + whitecolor + "Network Scanner" + res))
     print ((greencolor + "              [2] " + res + whitecolor + "Proxy Scraper" + res))
     print ((greencolor + "              [3] " + res + whitecolor + "IPTool [Whois / Reverse DNS / Reverse IP]" + res))
     print ((greencolor + "              [4] " + res + whitecolor + "Password Generator" + res))
